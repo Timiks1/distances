@@ -1,0 +1,15 @@
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/bin/Debug/net6.0/vers1.0.0.2
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/bin/Debug/net6.0/vers1.0.0.2.deps.json
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/bin/Debug/net6.0/vers1.0.0.2.runtimeconfig.json
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/bin/Debug/net6.0/vers1.0.0.2.dll
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/bin/Debug/net6.0/vers1.0.0.2.pdb
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.csproj.AssemblyReference.cache
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.AssemblyInfoInputs.cache
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.AssemblyInfo.cs
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.csproj.CoreCompileInputs.cache
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.dll
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/refint/vers1.0.0.2.dll
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.pdb
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/vers1.0.0.2.genruntimeconfig.cache
+/Users/tim/Projects/vers1.0.0.2/vers1.0.0.2/obj/Debug/net6.0/ref/vers1.0.0.2.dll
